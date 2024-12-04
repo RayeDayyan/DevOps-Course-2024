@@ -60,7 +60,7 @@ Follow these simple steps to deploy this project on your local machine:
 
 ### Clone the repository:
 
-git clone https://github.com/<your-username>/jammtoast.git
+git clone https://github.com/RayeDayyan/jammtoast.git
 cd jammtoast
 
 ### Start Minikube:
