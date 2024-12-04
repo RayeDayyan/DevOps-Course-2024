@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: jammtoast-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: jammtoast
+  template:
+    metadata:
+      labels:
+        app: jammtoast
+    spec:
+      containers:
+      - name: jammtoast
+        image: dayyan1337/jammtoast:latest
+        ports:
+        - containerPort: 80

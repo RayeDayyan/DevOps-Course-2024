@@ -1,0 +1,14 @@
+Hello my name is Raye Dayyan,in here I'll summarize the two blogs that I've written during this DevOps Course.
+Link to the first blog : https://medium.com/@dayyanahmad12377/pulseviz-ecg-re-imagined-6ee8b5df01f1
+
+So in this blog, I wrote about the project that me and my team have been working on as our FYP namely 'PulseViz'.For the past many decades, ECG has been mainly used for heart-health analysis and it has been widely used for heart attack detection , 
+but the analysis of heart health through ECG can be very time consuming which resultantly can cause problems for the patients , in some severe cases even fatalities , this is where we come in . We propose a solution , that is going to revolutionize
+how the Medical world works , by making this whole-lot process faster , efficient and accurate. So, using our app the ECG can be analyzed within just 3 simple interactions and you can have the ECG results within just 10 seconds of submission making things alot more easier and efficient.
+
+Link to the second blog : https://medium.com/@dayyanahmad12377/what-exactly-is-minikube-2372b8a5989f
+
+The second blog I wrote was about MiniKube an extremely essential tool in the DevOps World. MiniKube is like a mini version of Kubernetes (K8s) that is used for testing and learning purposes because directly jumping onto the Kubernetes can be very expensive in terms of
+resources as well as money.So,this tool is to help amateaurs get hands on experience with the Kubernetes world as both the MiniKube and Kubernetes work in a very similar way.In this blog,I covered the background need for MiniKube,how is it different from Kubernetes,how it works
+and how you can use it to your advantage along with a conclusion.
+
+ 

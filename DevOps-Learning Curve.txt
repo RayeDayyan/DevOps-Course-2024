@@ -1,0 +1,103 @@
+I am going to be totally honest here,the only thing I knew about DevOps world before taking this course was that DevOps stood for 'Development Operations'.But upon the completion of this course I can proudly say that I have a decent knowledege about how things work in
+the DevOps world and can efficiently use that knowledge into practical life for the whole CI/CD cycle of a project.
+
+Following I tried to mention everything that I learned throughout this course : 
+
+0.Git and GitHub
+
+I honestly had a very little experience working with GitHub but after this project I have a deep practical understanding of the whole version control.
+
+1. DevOps Foundation and Culture
+
+Understanding the core principles of collaboration between development and operations teams
+Embracing automation and continuous improvement mindset
+Implementing feedback loops and measuring key metrics
+Adopting Infrastructure as Code (IaC) practices
+Focusing on security integration (DevSecOps)
+
+2. Infrastructure as Code (IaC)
+
+Terraform
+Declarative infrastructure provisioning
+State management and remote backends
+Module development and reusability
+Multi-cloud infrastructure management
+Learning Path:
+Writing basic Terraform configurations
+Managing complex infrastructure states
+Implementing best practices for production environments
+
+3. Container Technologies
+
+Docker
+Container fundamentals and image management
+Dockerfile optimization techniques
+Multi-stage builds
+Docker Compose for local development
+Learning Path:
+Building efficient container images
+Implementing container security best practices
+Managing container networking and storage
+
+4. Container Orchestration and Management
+
+Kubernetes
+Core concepts (Pods, Services, Deployments)
+Advanced features (StatefulSets, DaemonSets)
+Custom Resource Definitions (CRDs)
+Cluster Optimization Techniques
+Node-level optimization
+Resource allocation
+Node affinity rules
+Taints and tolerations
+Application-level optimization
+Resource requests and limits
+Horizontal Pod Autoscaling
+Pod Disruption Budgets
+
+5. Service Mesh and Advanced Kubernetes
+
+Istio Service Mesh
+Traffic management
+Security policies
+Observability features
+Kyverno
+Policy management
+Security enforcement
+Resource validation
+KNative
+Serverless workloads on Kubernetes
+Event-driven architecture
+Auto-scaling capabilities
+
+6. Cloud Services and Serverless
+
+AWS Services
+Core services (EC2, S3, IAM)
+Container services (ECS, EKS)
+AWS Fargate
+Serverless container execution
+Integration with ECS/EKS
+Auto-scaling capabilities
+Serverless computing (Lambda, API Gateway)
+
+7. CI/CD Implementation
+
+Pipeline automation with various tools:
+Jenkins
+Deployment strategies:
+Blue-green deployments
+Canary releases
+Rolling updates
+Integration with:
+Automated testing
+Security scanning
+Artifact management
+
+8. Monitoring and Observability
+
+Implementing monitoring solutions
+Log aggregation and analysis
+Metrics collection and visualization
+Tracing distributed systems
+Alert management and incident response
